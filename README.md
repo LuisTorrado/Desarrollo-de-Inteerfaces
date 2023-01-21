@@ -1,2 +1,2 @@
-# Desarrollo-de-Inteerfaces
+# Desarrollo-de-Interfaces
 Módulo Desarrollo de Interfaces DAM
