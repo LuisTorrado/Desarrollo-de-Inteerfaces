@@ -1,5 +1,5 @@
 ### Writing Style
-
+*<Hola
 * Use US spelling and grammar.
 * Direct, simple writing style
 * Avoid long and complex words and grammar. Prefer simplicity so that text is accessible to non-native speakers
