@@ -1,0 +1,16 @@
+  155  wget -c https://github.com/javaee/javahelp/tree/master/jhMaster/JavaHelp . #Descargar con wget
+  157  wget -c https://github.com/javaee/javahelp/find/master .  #Descargar con wget
+  
+  #Todo esto es para instalar git
+  213  curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg \
+
+  278  git clone git@github.com:LuisTorrado/Desarrollo-de-Interfaces.git # descargar repositorio
+  280  git branch  # Mirar ramas
+  281  git branch rama-local # Crear rama
+  282  git checkout rama-local  # Cambiar a rama )como cd)
+  291  git status # Comprobar cambios
+  292  git add img/ # Añadir los cambios
+  299  git config --global user.email "lfmerinot@gmail.com" #Identificarme
+  300  git commit -m "Creada carpeta img con imagen de prueba" # Hacer el commit
+  303  git push --set-upstream origin rama-local  # La primera vez, para que se cree la rama en el repositorio
+  304  history | grep git > comandos.txt
